@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ETCHDEV
 - 👀 I’m interested in porting and experimenting stuff
-- 🌱 I’m currently an Student in 12th Science
-- 💞️ I’m looking to collaborate on CEMU for ARM64
+- 🌱 I’m currently an Bachlor at A. P. Shah Institute of Technology, Thane
+- 💞️ I’m looking to collaborate on Windows on lisa
 - 📫 How to reach me: arjun22talekar@gmail.com
 
 <!---
