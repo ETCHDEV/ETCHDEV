@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🔭 I’m currently working on Analytics & Statistics and System firmwares(mainlining & embbeded systems)
+- 🌱 I’m currently learning Computer Science with Data Science
+- 📫 How to reach me: Issues tab on my repo!
+- 😄 Pronouns: Programmer/Engineer
+- ⚡ Fun fact: I rarely laugh. Have syntax anxity!!!<;):
